@@ -88,3 +88,28 @@ Python · Bash · Go · JavaScript · YAML
 - Blog: [hezronchacha.com/#blog-2](https://www.hezronchacha.com/#blog-2)  
 - GitHub: [github.com/hezychacha](https://github.com/hezychacha)  
 - Twitter: [@hezychacha](https://twitter.com/hezychacha)
+
+
+---
+
+## 🤝 Buy me Coffee
+<hr>
+
+<p align="center">
+  <a href="https://paypal.me/hezychacha" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal" />
+  </a>
+  <a href="https://www.buymeacoffee.com/hezychacha" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?logo=buymeacoffee" />
+  </a>
+  <a href="https://liberapay.com/hezychacha" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Liberapay-yellow.svg?logo=liberapay" />
+  </a>
+  <a href="https://ko-fi.com/hezychacha" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Ko--fi-ff5f5f.svg?logo=ko-fi" />
+  </a>
+  <a href="https://www.patreon.com/hezychacha" target="_blank">
+    <img src="https://img.shields.io/badge/Support-Patreon-F96854.svg?logo=patreon" />
+  </a>
+</p>
+
