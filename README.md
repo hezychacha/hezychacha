@@ -56,6 +56,20 @@ Python · Bash · Go · JavaScript · YAML
 - Bug Bounty on MakeMyTrip & Billit  
 - Wazuh + pfSense + Proxmox Lab  
 - ServiceOps ITIL Automation Training
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=PGcIjxGtQLY">
+        <img width="250" src="https://img.youtube.com/vi/PGcIjxGtQLY/hqdefault.jpg">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=DI4IOydYgaw">
+        <img width="250" src="https://img.youtube.com/vi/DI4IOydYgaw/hqdefault.jpg">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
