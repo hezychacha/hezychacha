@@ -71,6 +71,6 @@ Python · Bash · Go · JavaScript · YAML
 ## 🤝 Let’s Connect
 
 - LinkedIn: [linkedin.com/in/hezronchacha](https://linkedin.com/in/hezronchacha)  
-- Blog: [sourcefuse.co.ke/blog](https://sourcefuse.co.ke/blog)  
+- Blog: [hezronchacha.com/#blog-2](https://www.hezronchacha.com/#blog-2)  
 - GitHub: [github.com/hezychacha](https://github.com/hezychacha)  
 - Twitter: [@hezychacha](https://twitter.com/hezychacha)
