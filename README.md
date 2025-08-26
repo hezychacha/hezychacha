@@ -96,7 +96,7 @@ Python · Bash · Go · JavaScript · YAML
 <hr>
 
 <p align="center">
-  <a href="[https://paypal.me/hezychacha](https://www.paypal.com/donate/?hosted_button_id=M39DS3SNZB6VQ)" target="_blank">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=M39DS3SNZB6VQ" target="_blank">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal" />
   </a>
   <a href="https://www.buymeacoffee.com/hezychacha" target="_blank">
