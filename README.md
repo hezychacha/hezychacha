@@ -105,10 +105,10 @@ Python · Bash · Go · JavaScript · YAML
   <a href="https://liberapay.com/hezychacha/donate" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Liberapay-yellow.svg?logo=liberapay" />
   </a>
-  <a href="https://ko-fi.com/hezychacha" target="_blank">
+  <a href="https://ko-fi.com/hezronchacha" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Ko--fi-ff5f5f.svg?logo=ko-fi" />
   </a>
-  <a href="https://www.patreon.com/hezychacha" target="_blank">
+  <a href="https://www.patreon.com/hezronchacha" target="_blank">
     <img src="https://img.shields.io/badge/Support-Patreon-F96854.svg?logo=patreon" />
   </a>
 </p>
